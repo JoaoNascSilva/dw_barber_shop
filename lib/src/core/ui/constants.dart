@@ -10,3 +10,14 @@ sealed class ColorsConstants {
 sealed class FontConstants {
   static const fontFamilyPoppins = 'Poppins';
 }
+
+sealed class ImageConstants {
+  static const String imageLogo = 'assets/images/imgLogo.png';
+  static const String backgroundChair =
+      'assets/images/background_image_chair.jpg';
+  static const String avatar = 'assets/images/avatar.png';
+}
+
+sealed class DescriptionKeysConstants {
+  static const String dioAuthKey = 'DIO_AUTH_KEY';
+}
